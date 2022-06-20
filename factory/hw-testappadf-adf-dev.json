@@ -1,0 +1,9 @@
+{
+	"name": "hw-testappadf-adf-dev",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "04664be9-f7a7-414d-bad6-520d1c4f62db",
+		"tenantId": "b389dae6-fcaf-4bd7-9d45-7e96e87d725e"
+	}
+}
